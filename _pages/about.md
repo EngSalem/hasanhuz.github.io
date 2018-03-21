@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 
-* I am pursuing a Ph.D Degree in the School of Information at [University of British Columbia](https://www.ubc.ca/). 
+* I am pursuing an Ph.D Degree in the School of Information at [University of British Columbia](https://www.ubc.ca/). 
 
 
 # Recent News
