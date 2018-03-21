@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://github.com/hasanhuz/halhuzali.github.io/tree/master/files2017_Nov_Alhuzali_academic_cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://github.com/hasanhuz/halhuzali.github.io/blob/master/files/2017_Nov_Alhuzali_academic_cv.pdf)
 
 <!-- <embed src="https://github.com/hasanhuz/halhuzali.github.io/tree/master/files2017_Nov_Alhuzali_academic_cv.pdf" width="650" height="1800" type='application/pdf'> -->
