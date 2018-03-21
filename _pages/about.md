@@ -17,4 +17,6 @@ redirect_from:
 
 
 # Recent News
-* 
+* March 9, 2018: Gave a talk @iSchool Research Day at UBC on "Emotion detection in social media". [New!]
+* Dec., 2017: Our "City-Level Dataset for Arabic Dialects" paper accepted in LREC2018. [New!]
+* Feb., 2018: Paper "Think Before You Click: Data and Models for Adult Content in Arabic Twitter" accepted @TA-COS, LREC2018.
