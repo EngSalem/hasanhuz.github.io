@@ -11,4 +11,4 @@ redirect_from:
 
 [Click to View My Up-to-date Curriculum Vitae [PDF]](http://lantaoyu.github.io/files/lantaoyu_cv.pdf)
 
-<!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="https://github.com/hasanhuz/halhuzali.github.io/tree/master/files2017_Nov_Alhuzali_academic_cv.pdf" width="650" height="1800" type='application/pdf'> -->
