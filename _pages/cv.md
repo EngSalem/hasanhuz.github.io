@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Lantao Yu (于澜涛)"
+title: "Hassan Alhuzali (حسن)"
 permalink: /cv/
 author_profile: true
 redirect_from:
