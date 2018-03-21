@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hassan Alhuzali / Personal Site"
+title                    : "Hassan Alhuzali"
 title_separator          : "-"
 name                     : &name "Hassan Alhuzali"
 description              : &description "personal description"
