@@ -18,7 +18,6 @@ redirect_from:
 
 # Recent News
 * March 9, 2018: Gave a talk @iSchool Research Day at UBC on "Emotion detection in social media".
-* March 9, 2018: Presented a poster @iSchool Research Day at UBC on "Social Media as a source of natural language processing data".
 * March 9, 2018: Presented a poster @iSchool Research Day at UBC on "Image analysis of social data using convolutional neural networks".
 * Dec., 2017: Paper "City-Level Dataset for Arabic Dialects" accepted in LREC2018.
 * Feb., 2018: Paper "Think Before You Click: Data and Models for Adult Content in Arabic Twitter" accepted @TA-COS, LREC2018.
