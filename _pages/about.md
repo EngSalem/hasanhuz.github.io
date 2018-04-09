@@ -17,6 +17,8 @@ redirect_from:
 
 
 # Recent News
+* Abdul-Mageed, M., AlHuzali, H., & Ungar, L. (2018). Enabling Deep Learning of Emotion With First-Person Seed Expressions. @(PEOPLES18), held in conjunction with (NAACL2016), June 1-6, New Orleans, louisiana. 
+
 * March 9, 2018: Gave a talk @iSchool Research Day at UBC on "Emotion detection in social media".
 * March 9, 2018: Presented a poster @iSchool Research Day at UBC on "Image analysis of social data using convolutional neural networks".
 * Dec., 2017: Paper "City-Level Dataset for Arabic Dialects" accepted in LREC2018.
