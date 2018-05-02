@@ -18,8 +18,8 @@ main:
    - title: "Data"
      url: /datasets/
         
-  # - title: "Blogs"
-  #   url: /year-archive/
+   - title: "Blogs"
+     url: /year-archive/
     
   - title: "Contact"
     url: /contact/  
