@@ -10,19 +10,19 @@ main:
     url: /cv/
 
    - title: "Talks"
-     url: /talks/    
+     url: /talks/  
+     
+   - title: "Contact"
+    url: /contact/ 
 
   # - title: "Teaching"
-  #   url: /teaching/    
+    # url: /teaching/    
     
   # - title: "Data"
-  #   url: /datasets/
+    # url: /datasets/
         
   # - title: "Blogs"
-  #   url: /year-archive/
-    
-  - title: "Contact"
-    url: /contact/  
+    # url: /year-archive/ 
     
   # - title: "Guide"
     # url: /markdown/
