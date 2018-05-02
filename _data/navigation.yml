@@ -16,13 +16,13 @@ main:
     url: /contact/ 
 
   # - title: "Teaching"
-    # url: /teaching/    
+  #   url: /teaching/    
     
   # - title: "Data"
-    # url: /datasets/
+  #   url: /datasets/
         
   # - title: "Blogs"
-    # url: /year-archive/ 
+  #   url: /year-archive/ 
     
   # - title: "Guide"
-    # url: /markdown/
+  #   url: /markdown/
