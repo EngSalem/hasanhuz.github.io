@@ -8,18 +8,15 @@ main:
     
   - title: "Resume"
     url: /cv/
-
-   - title: "Talks"
-     url: /talks/  
+    
+  - title: "Data"
+    url: /datasets/ 
      
    - title: "Contact"
     url: /contact/ 
 
   # - title: "Teaching"
   #   url: /teaching/    
-    
-  # - title: "Data"
-  #   url: /datasets/
         
   # - title: "Blogs"
   #   url: /year-archive/ 
