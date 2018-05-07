@@ -12,7 +12,7 @@ main:
   - title: "Data"
     url: /datasets/ 
      
-   - title: "Contact"
+  - title: "Contact"
     url: /contact/ 
 
   # - title: "Teaching"
