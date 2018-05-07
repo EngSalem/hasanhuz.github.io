@@ -10,4 +10,4 @@ author_profile: true
 "Note: * refers to equal contribution" 
 
 
-* Abdul-Mageed, M., **AlHuzali, H.**, AbulHaija’, D. & Diab, M. (2016). DINA: A multi-dialect dataset for Arabic emotion analysis. The 2nd Workshop on Arabic Corpora and Processing Tools (OSACT2), held in conjunction with The 10th International Conference on Language Resources and Evaluation (LREC2016), May 23-28, Portoroz, Slovenia. 
+* Abdul-Mageed, M., **AlHuzali, H.**, AbulHaija’, D. & Diab, M. (2016). DINA: A multi-dialect dataset for Arabic emotion analysis. The 2nd Workshop on Arabic Corpora and Processing Tools (OSACT2), held in conjunction with The 10th International Conference on Language Resources and Evaluation (LREC2016), May 23-28, Portoroz, Slovenia. [PDF](http://www.lrec-conf.org/proceedings/lrec2016/workshops/LREC2016Workshop-OSACT2_Proceedings.pdf#page=34)
