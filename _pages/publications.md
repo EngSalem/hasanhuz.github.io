@@ -4,7 +4,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-* **AlHuzali, H**., Abdul-Mageed, M., & Ungar, L. (2018). Enabling Deep Learning of Emotion With First-Person Seed Expressions. The 2nd Workshop on Computational Modeling of People's emotion in Social Media (PEOPLES), co-located with (NAACL-HLT2018), New Orleans, Louisiana. [paper](https://mageed.sites.olt.ubc.ca/files/2018/03/lrec2018_dialect_final.pdf)[codes]
+* **AlHuzali, H**., Abdul-Mageed, M., & Ungar, L. (2018). Enabling Deep Learning of Emotion With First-Person Seed Expressions. The 2nd Workshop on Computational Modeling of People's emotion in Social Media (PEOPLES), co-located with (NAACL-HLT2018), New Orleans, Louisiana. [PDF](http://www.lrec-conf.org/proceedings/lrec2018/pdf/929.pdf)[codes]
 
 * Abdul-Mageed, M. *, **Alhuzali, H.** *, and Elaraby, M. (2018). You Tweet What You Speak: A City-Level Dataset for Arabic Dialects. In LREC2018.[pdf] [codes] 
 "Note: * refers to equal contribution" 
