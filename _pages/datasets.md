@@ -5,5 +5,5 @@ permalink: /datasets/
 author_profile: true
 ---
 # coming soon
-* Lama-Dist dataset:
-* Lama dataset:
+* Lama-Dist dataset: [soon]
+* Lama dataset: [soon]
