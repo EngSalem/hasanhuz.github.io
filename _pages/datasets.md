@@ -4,6 +4,5 @@ title: "Data"
 permalink: /datasets/
 author_profile: true
 ---
-# coming soon
-* Lama-Dist dataset: [soon]
-* Lama dataset: [soon]
+# Title: Enabling Deep Learning of Emotion With First-Person Seed Expressions
+* Our Arabic Emotion paper: [link](https://github.com/UBC-NLP/ara_emotion_naacl2018)
