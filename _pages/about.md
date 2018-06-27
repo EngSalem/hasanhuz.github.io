@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Recent News
+* June 26, 2018: Gave a talk @LangSci at UBC on "My recent projects: Dialect and Emotions". 
 * April 4, 2018: Paper "Enabling Deep Learning of Emotion With First-Person Seed Expressions" accepted @(PEOPLES18), NAACL2018. 
 
 * March 9, 2018: Gave a talk @iSchool Research Day at UBC on "Emotion detection in social media".
