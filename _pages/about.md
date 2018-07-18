@@ -17,7 +17,7 @@ redirect_from:
 
 
 # Recent News
-* July 13, 2018: Our system @ IEST competition ranked the 4th out of 30 particpated teams.
+* July 13, 2018: Our system @ IEST competition ranked the 4th out of 30 particpated teams [[link]](http://implicitemotions.wassa2018.com/results/).
 * June 26, 2018: Gave a talk @LangSci at UBC on "Our recent projects: Dialect and Emotion". 
 * April 4, 2018: Paper "Enabling Deep Learning of Emotion With First-Person Seed Expressions" accepted @(PEOPLES18), NAACL2018. 
 
