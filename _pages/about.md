@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Recent News
+* July 25, 2018: Give a talk at the NLP@UBC group on the best paper award in NAACL-2018 (Deep contextualized word representations).
 * July 19, 2018: Gave a talk on our participation @ IEST-2018.
 * July 13, 2018: Our system @ IEST competition ranked the 4th out of 30 particpated teams [[Results]](http://implicitemotions.wassa2018.com/results/).
 * June 26, 2018: Gave a talk @LangSci at UBC on "Our recent projects: Dialect and Emotion". 
