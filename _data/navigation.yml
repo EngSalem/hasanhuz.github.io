@@ -9,8 +9,8 @@ main:
   - title: "Resume"
     url: /cv/
     
-  - title: "Research Talks"
-    url: /talks/ 
+  - title: "Data"
+    url: /datasets/ 
      
   - title: "Contact"
     url: /contact/ 
