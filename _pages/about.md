@@ -17,8 +17,8 @@ redirect_from:
 
 
 # Recent News
-* July 25, 2018: Presented the best paper award in NAACL-2018 (Deep contextualized word representations) at the NLP@UBC group.
-* July 19, 2018: Gave a talk on our participation @ IEST-2018. [[Presentation.pdf]](https://github.com/hasanhuz/hasanhuz.github.io/blob/master/files/Elmo_paper_presentation.pdf)
+* July 25, 2018: Presented the best paper award in NAACL-2018 (Deep contextualized word representations) at the NLP@UBC group. [[Presentation.pdf]](https://github.com/hasanhuz/hasanhuz.github.io/blob/master/files/Elmo_paper_presentation.pdf)
+* July 19, 2018: Gave a talk on our participation @ IEST-2018.
 * July 13, 2018: Our system @ IEST competition ranked the 4th out of 30 particpated teams [[Results]](http://implicitemotions.wassa2018.com/results/).
 * June 26, 2018: Gave a talk @LangSci at UBC on "Our recent projects: Dialect and Emotion". 
 * April 4, 2018: Paper "Enabling Deep Learning of Emotion With First-Person Seed Expressions" accepted @(PEOPLES18), NAACL2018. 
