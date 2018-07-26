@@ -9,9 +9,12 @@ main:
   - title: "Resume"
     url: /cv/
     
-  - title: "Data"
-    url: /datasets/ 
-     
+  #- title: "Data"
+    #url: /datasets/ 
+    
+  - title: "Research Talks"
+    url: /talks/
+    
   - title: "Contact"
     url: /contact/ 
 
@@ -20,6 +23,3 @@ main:
         
   # - title: "Blogs"
   #   url: /year-archive/ 
-    
-  - title: "Research Talks"
-    url: /talks/
