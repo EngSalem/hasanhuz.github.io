@@ -12,8 +12,8 @@ main:
   #- title: "Data"
     #url: /datasets/ 
     
-  - title: "Talks"
-    url: /talks/
+  #- title: "Talks"
+    #url: /talks/
     
   - title: "Contact"
     url: /contact/ 
