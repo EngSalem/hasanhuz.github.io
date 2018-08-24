@@ -17,7 +17,7 @@ redirect_from:
 
 
 # Recent News
-* August 21, 2018: Paper "Learning Implicit Emotion With an Ensemble of Language Models" accepted @ WASSA-2018, EMNLP2018.
+* August 21, 2018: Paper "Learning Implicit Emotion With an Ensemble of Language Models" accepted @ WASSA, EMNLP2018.
 * July 25, 2018: Presented the best paper in NAACL-2018 (Deep contextualized word representations) at the NLP@UBC group. [[Presentation.pdf]](https://github.com/hasanhuz/hasanhuz.github.io/blob/master/files/Elmo_paper_presentation.pdf)
 * July 19, 2018: Gave a talk on our participation @ IEST-2018.
 * July 13, 2018: Our system @ IEST competition ranked the 4th out of 30 particpated teams [[Results]](http://implicitemotions.wassa2018.com/results/).
