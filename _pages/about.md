@@ -13,11 +13,12 @@ redirect_from:
 </p>
 
 
-* I am pursuing an Ph.D Degree in the School of Information at [University of British Columbia](https://www.ubc.ca/). 
+* I am pursuing an Ph.D Degree in the School of Information at [University of British Columbia](https://www.ubc.ca/) (Leave for Winter I 2018). 
 * My supervisor is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). 
 
 
 # Recent News
+ 
 * August 21, 2018: Paper "Learning Implicit Emotion With an Ensemble of Language Models" accepted @ WASSA, EMNLP2018.
 * July 25, 2018: Presented the best paper in NAACL-2018 (Deep contextualized word representations) at the NLP@UBC group. [[Presentation.pdf]](https://github.com/hasanhuz/hasanhuz.github.io/blob/master/files/Elmo_paper_presentation.pdf)
 * July 19, 2018: Gave a talk on our participation @ IEST-2018.
