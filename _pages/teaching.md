@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Data"
-permalink: /datasets/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 # Title: Enabling Deep Learning of Emotion With First-Person Seed Expressions
