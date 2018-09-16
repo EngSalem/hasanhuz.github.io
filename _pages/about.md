@@ -14,8 +14,6 @@ redirect_from:
 
 
 * I am pursuing an Ph.D Degree in the School of Information at [University of British Columbia](https://www.ubc.ca/) **(On leave for Winter I-2018)**. 
-* My supervisor is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). 
-
 
 # Recent News
 * Sep 10, 2018: lecturer @ [Umm Al-Qura University](https://uqu.edu.sa/en/cis).
