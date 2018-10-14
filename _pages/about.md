@@ -16,6 +16,7 @@ redirect_from:
 * I am pursuing an Ph.D Degree in the School of Information at [University of British Columbia](https://www.ubc.ca/) **(On leave for Winter I-2018)**. 
 
 # Recent News
+* Oct 31st, 2018: Presenting our UBC-NLP system in WASSA, co-located with EMNLP2018.
 * Sep 10, 2018: lecturer @ [Umm Al-Qura University](https://uqu.edu.sa/en/cis).
 * August 21, 2018: Paper "Learning Implicit Emotion With an Ensemble of Language Models" accepted @ WASSA, EMNLP2018.
 * July 25, 2018: Presented the best paper in NAACL-2018 (Deep contextualized word representations) at the NLP@UBC group. [[Presentation.pdf]](https://github.com/hasanhuz/hasanhuz.github.io/blob/master/files/Elmo_paper_presentation.pdf)
