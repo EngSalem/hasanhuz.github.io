@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/hasanhuz/halhuzali.github.io/blob/master/files/profile.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
+  <img src="https://github.com/hasanhuz/halhuzali.github.io/blob/master/files/20181031_112124.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
 </p>
 
 
