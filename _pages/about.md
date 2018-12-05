@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/hasanhuz/halhuzali.github.io/blob/master/files/20181031_112124.jpg?raw=true" alt="Photo"/> 
+  <img src="https://github.com/hasanhuz/halhuzali.github.io/blob/master/files/has_emnlp2018.PNG?raw=true" alt="Photo"/> 
 </p>
 
 * I am pursuing an Ph.D Degree in the School of Information at [University of British Columbia](https://www.ubc.ca/) **(On leave for Winter I-2018)**. 
