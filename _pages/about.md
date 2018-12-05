@@ -9,9 +9,20 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/hasanhuz/halhuzali.github.io/blob/master/files/20181031_112124.jpg?raw=true" alt="Photo" style="width: 300px;" class="rotate90"/> 
+  <img src="https://github.com/hasanhuz/halhuzali.github.io/blob/master/files/20181031_112124.jpg?raw=true" alt="Photo" style="width: 300px;" data-rotate="90"/> 
 </p>
 
+$('img').each(function() {
+    var deg = $(this).data('rotate') || 0;
+    var rotate = 'rotate(' + deg + 'deg)';
+    $(this).css({ 
+        '-webkit-transform': rotate,
+        '-moz-transform': rotate,
+        '-o-transform': rotate,
+        '-ms-transform': rotate,
+        'transform': rotate 
+    });
+});
 
 * I am pursuing an Ph.D Degree in the School of Information at [University of British Columbia](https://www.ubc.ca/) **(On leave for Winter I-2018)**. 
 
