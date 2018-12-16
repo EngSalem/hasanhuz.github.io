@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://github.com/hasanhuz/halhuzali.github.io/blob/master/files/has_emnlp2018.PNG?raw=true" alt="Photo" border="5"/> 
 </p>
 
-* I am pursuing an Ph.D Degree. 
+* I will begin my Ph.D studies at the NaCTeM group at the University of Manchester in 2019 and will be supervised by [Prof. Ananiadou](http://www.nactem.ac.uk/staff/sophia.ananiadou/) and [Prof. Tsujii](https://scholar.google.com/citations?user=fG2RSmcAAAAJ&hl=en)  
 
 # Recent News
 * Oct 31st, 2018: Presenting our UBC-NLP system in WASSA, co-located with EMNLP2018.
