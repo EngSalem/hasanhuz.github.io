@@ -4,5 +4,5 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Natural Language Processing group, School of Information, University of British Columbia<br>
-Email: halhuzali [at] alumni.ubc.ca
+The National Centre for Text Mining (NaCTeM) group, School of Computer Science, University of Manchester<br>
+Email: halhuzali [at] gmail.com
