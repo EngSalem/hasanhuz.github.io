@@ -16,7 +16,7 @@ redirect_from:
 
 # Recent News
 * April 9th, 2019: Presented my recent work on ADR (ongoing work!).
-* Jan 28th, 2019: particpated in a workshop titled as "Ph.D in a week".
+* Jan 28th, 2019: particpated in "Ph.D in a week" workshop.
 * Oct 31st, 2018: Presenting our UBC-NLP system in WASSA, co-located with EMNLP2018.
 * Sep 10, 2018: lecturer @ [Umm Al-Qura University](https://uqu.edu.sa/en/cis).
 * August 21, 2018: Paper "Learning Implicit Emotion With an Ensemble of Language Models" accepted @ WASSA, EMNLP2018.
