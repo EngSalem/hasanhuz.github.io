@@ -15,7 +15,7 @@ redirect_from:
 * I am a Ph.D student at the NaCTeM group of the University of Manchester. My supervisors are [Prof. Ananiadou](http://www.nactem.ac.uk/staff/sophia.ananiadou/) and [Prof. Tsujii](http://www.nactem.ac.uk/profile.php?member=jtsujii)  
 
 # Recent News
-* April 9th, 2019: Presented my recent work on ADR.
+* April 9th, 2019: Presented my recent work on ADR (ongoing work!).
 * Jan 28th, 2019: particpated in a workshop titled as "Ph.D in a week".
 * Oct 31st, 2018: Presenting our UBC-NLP system in WASSA, co-located with EMNLP2018.
 * Sep 10, 2018: lecturer @ [Umm Al-Qura University](https://uqu.edu.sa/en/cis).
