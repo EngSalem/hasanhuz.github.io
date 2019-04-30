@@ -15,6 +15,7 @@ redirect_from:
 * I am a Ph.D student at the NaCTeM group of the University of Manchester. My supervisors are [Prof. Ananiadou](http://www.nactem.ac.uk/staff/sophia.ananiadou/) and [Prof. Tsujii](http://www.nactem.ac.uk/profile.php?member=jtsujii)  
 
 # Recent News
+* April 30th, 2019: Admitted to the Machine Learning Summer School (LxMLS-2019), Lisbon, Portugal from July 11th-18th 2019 (30% Acceptance Rate).
 * April 9th, 2019: Presented my recent work on ADR (ongoing work!).
 * Jan 28th, 2019: particpated in "Ph.D in a week" workshop.
 * Oct 31st, 2018: Presenting our UBC-NLP system in WASSA, co-located with EMNLP2018.
