@@ -15,11 +15,12 @@ redirect_from:
 * I am a Ph.D student at the NaCTeM group of the University of Manchester. My supervisors are [Prof. Ananiadou](http://www.nactem.ac.uk/staff/sophia.ananiadou/) and [Prof. Tsujii](http://www.nactem.ac.uk/profile.php?member=jtsujii)  
 
 # Recent News
+* May 20th-21st, 2019: Attending Advances in Data Science 2019. 
 * April 30th, 2019: Admitted to the Machine Learning Summer School (LxMLS-2019), Lisbon, Portugal from July 11th-18th 2019 (30% Acceptance Rate).
 * April 9th, 2019: Presented my recent work on ADR (ongoing work!).
 * Jan 28th, 2019: particpated in "Ph.D in a week" workshop.
-* Oct 31st, 2018: Presenting our UBC-NLP system in WASSA, co-located with EMNLP2018.
-* Sep 10, 2018: lecturer @ [Umm Al-Qura University](https://uqu.edu.sa/en/cis).
+* Oct 31st, 2018: Presented our UBC-NLP system in WASSA, co-located with EMNLP2018.
+* Sep 10, 2018: Lecturer @ [Umm Al-Qura University](https://uqu.edu.sa/en/cis).
 * August 21, 2018: Paper "Learning Implicit Emotion With an Ensemble of Language Models" accepted @ WASSA, EMNLP2018.
 * July 25, 2018: Presented the best paper in NAACL-2018 (Deep contextualized word representations) at the NLP@UBC group. [[Presentation.pdf]](https://github.com/hasanhuz/hasanhuz.github.io/blob/master/files/Elmo_paper_presentation.pdf)
 * July 19, 2018: Gave a talk on our participation @ IEST-2018.
