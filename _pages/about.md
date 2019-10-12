@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://github.com/hasanhuz/halhuzali.github.io/blob/master/files/has_emnlp2018.PNG?raw=true" alt="Photo" border="5"/> 
 </p>
 
-* I am a Ph.D student at the NaCTeM group of the University of Manchester. My supervisor is [Prof. Ananiadou](http://www.nactem.ac.uk/staff/sophia.ananiadou/).
+* I am a Ph.D student at the NaCTeM group of the University of Manchester. My supervisor is [Prof. Sophia Ananiadou](http://www.nactem.ac.uk/staff/sophia.ananiadou/).
 
 # Recent News
 * Sep 3rd-6th: Attending ACII-2019 conference, Cambridge, UK.
