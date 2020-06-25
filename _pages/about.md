@@ -15,8 +15,9 @@ redirect_from:
 * I am a Ph.D student at the NaCTeM group of the University of Manchester. My supervisor is [Prof. Sophia Ananiadou](http://www.nactem.ac.uk/staff/sophia.ananiadou/).
 
 # Recent News
-* June 20th: My ACL2020 volunteering appication has been accepted.
-* Sep 3rd-6th: Attending ACII-2019 conference, Cambridge, UK.
+* June, 2020: A paper is under-review:)
+* June 20th, 2020: I will be volunteering for ACL2020.
+* Sep 3rd-6th, 2019: Attending ACII-2019 conference, Cambridge, UK.
 * August 1st, 2019: Presented my paper in Proceedings of BioNLP.
 * July 11th to July 18, 2019: Attended LxMLs2019, Lisbon, Portugal.
 * May 31st, 2019: My paper has been accepted to appear in the Proceedings of BioNLP as oral presentation.
