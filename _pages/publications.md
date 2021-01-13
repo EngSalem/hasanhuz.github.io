@@ -4,6 +4,8 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+* **Alhuzali, H.**, & Ananiadou, S. (2021). SpanEmo: Casting Multi-label Emotion Classification as Span-prediction. In Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL-2021). [[PDF]](coming soon) [[Codes]](coming soon)
+
 * **Alhuzali, H.**, & Ananiadou, S. (2019, August). Improving classification of Adverse Drug Reactions through Using Sentiment Analysis and Transfer Learning. In Proceedings of the 18th BioNLP Workshop and Shared Task (pp. 339-347). [[PDF]](https://www.aclweb.org/anthology/W19-5036)
 
 * **Alhuzali, H.**, Elaraby, M., & Abdul-Mageed, M. (2018). UBC-NLP at IEST 2018: Learning Implicit Emotion With an Ensemble of Language Models. Proceedings of the 9th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA), co-located with EMNLP2018, Brussels, Belgium. [[PDF]](http://aclweb.org/anthology/W18-6250)
