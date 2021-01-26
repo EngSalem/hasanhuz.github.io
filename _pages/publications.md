@@ -4,7 +4,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-* **Alhuzali, H.**, & Ananiadou, S. (2021). SpanEmo: Casting Multi-label Emotion Classification as Span-prediction. In Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL-2021). [[PDF]](https://arxiv.org/abs/2101.10038) [[Codes]](https://github.com/hasanhuz/SpanEmo)
+* **Alhuzali, H.**, & Ananiadou, S. (2021). SpanEmo: Casting Multi-label Emotion Classification as Span-prediction. In Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL-2021). [[PDF]](https://arxiv.org/pdf/2101.10038.pdf) [[Codes]](https://github.com/hasanhuz/SpanEmo)
 
 * **Alhuzali, H.**, & Ananiadou, S. (2019, August). Improving classification of Adverse Drug Reactions through Using Sentiment Analysis and Transfer Learning. In Proceedings of the 18th BioNLP Workshop and Shared Task (pp. 339-347). [[PDF]](https://www.aclweb.org/anthology/W19-5036)
 
