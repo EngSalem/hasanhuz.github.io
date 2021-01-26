@@ -15,7 +15,7 @@ redirect_from:
 * I am a Ph.D student at the NaCTeM group of the University of Manchester. My supervisor is [Prof. Sophia Ananiadou](http://www.nactem.ac.uk/staff/sophia.ananiadou/).
 
 # Recent News
-* January, 2021: my work titled "SpanEmo: Casting Multi-label Emotion Classification as Span-prediction" got accepted at EACL2021.
+* January, 2021: My work titled "SpanEmo: Casting Multi-label Emotion Classification as Span-prediction" got accepted at EACL2021.
 * June 20th, 2020: I will be volunteering for ACL2020.
 * Sep 3rd-6th, 2019: Attending ACII-2019 conference, Cambridge, UK.
 * August 1st, 2019: Presented my paper in Proceedings of BioNLP.
