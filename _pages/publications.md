@@ -6,7 +6,7 @@ author_profile: true
 ---
 * **Alhuzali, H.**, & Ananiadou, S. (2021). Improving Textual Emotion Recognition Based on Intra- and Inter-Class Variation. IEEE Transactions on Affective Computing. [[PDF]](soon)
 
-* **Alhuzali, H.**, Zhang, Tianlin & Ananiadou, S. (2021). Predicting Sign of Depression via Using Frozen Pre-trained Models and Random Forest Classifier. In CLEF-2021. [[PDF]](soon)
+* **Alhuzali, H.**, Zhang, T & Ananiadou, S. (2021). Predicting Sign of Depression via Using Frozen Pre-trained Models and Random Forest Classifier. In CLEF-2021. [[PDF]](soon)
 
 * **Alhuzali, H.**, & Ananiadou, S. (2021). SpanEmo: Casting Multi-label Emotion Classification as Span-prediction. In Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL-2021). [[PDF]](https://www.aclweb.org/anthology/2021.eacl-main.135.pdf) [[Codes]](https://github.com/hasanhuz/SpanEmo) [[POSTER]](https://github.com/hasanhuz/hasanhuz.github.io/blob/master/files/SpanEmo_Eacl2021_poster_final_april5.pdf)
 
