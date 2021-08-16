@@ -4,7 +4,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-* **Alhuzali, H.**, & Ananiadou, S. (2021). Improving Textual Emotion Recognition Based on Intra- and Inter-Class Variation. IEEE Transactions on Affective Computing. [[PDF]](soon)
+* **Alhuzali, H.**, & Ananiadou, S. (2021). Improving Textual Emotion Recognition Based on Intra- and Inter-Class Variation. IEEE Transactions on Affective Computing. [[Early Access Link]](https://www.computer.org/csdl/journal/ta/5555/01/09513563/1w2f8Lgif72)
 
 * **Alhuzali, H.**, Zhang, T & Ananiadou, S. (2021). Predicting Sign of Depression via Using Frozen Pre-trained Models and Random Forest Classifier. In CLEF-2021. [[PDF]](soon)
 
