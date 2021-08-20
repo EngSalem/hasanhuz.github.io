@@ -18,4 +18,4 @@ redirect_from:
 * August, 2021: My work titled "Improving Textual Emotion Recognition Based on Intra-and Inter-Class Variations" got accepted in IEEE Transactions on Affective Computing (IF: 10.506).
 * June, 2021: My work titled "Predicting Sign of Depression via Using Frozen Pre-trained Models and Random Forest Classifier" got accepted at CLEF-2021.
 * April, 2021: Presented my SpanEmo work at EACL-2021 :)
-* January, 2021: My work titled "SpanEmo: Casting Multi-label Emotion Classification as Span-prediction" got accepted at EACL2021 (Acceptance rate: 23%/ Track: 20%).
+* January, 2021: My work titled "SpanEmo: Casting Multi-label Emotion Classification as Span-prediction" got accepted at EACL2021 (Acceptance rate: 23%/Track: 20%).
