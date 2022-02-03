@@ -15,6 +15,7 @@ redirect_from:
 * I am a Ph.D student at the NaCTeM group of the University of Manchester. My supervisor is [Prof. Sophia Ananiadou](http://www.nactem.ac.uk/staff/sophia.ananiadou/).
 
 # Recent News
+* January, 2022: Successfully completed my PhD🎉🙂
 * December 14, 2021: Passed my PhD viva :)
 * Sep, 2021: Presented our participtaion in e-risk workshop-2021.
 * August, 2021: My work titled "Improving Textual Emotion Recognition Based on Intra-and Inter-Class Variations" got accepted in IEEE Transactions on Affective Computing (IF: 10.506).
