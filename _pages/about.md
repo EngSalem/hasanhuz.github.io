@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://github.com/hasanhuz/halhuzali.github.io/blob/master/files/has_emnlp2018.PNG?raw=true" alt="Photo" border="5"/> 
 </p>
 
-* I am a Ph.D student at the NaCTeM group of the University of Manchester. My supervisor is [Prof. Sophia Ananiadou](http://www.nactem.ac.uk/staff/sophia.ananiadou/).
+* I will be soon joining the college of Computers and Information Systems at Umm Al-Qura University as an assistant professor.
 
 # Recent News
 * January, 2022: Successfully completed my PhD🎉🙂
